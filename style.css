@@ -22,5 +22,8 @@ h3{
 }
 
 @media(max-width: 500px){
-    margin: 2rem 10rem;
+    body{
+        margin: 2rem 5rem;
+    }
 }
+
